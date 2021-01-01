@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 
 permalink: /:categories/:year/:month/:title/
-title: My Awesome Site's Title
-description: Description of my website
+title: Guizhen Wang
+description: Passionate in data visualization, machine learning and computer science.
 logo: /assets/img/IMG_logo.png
+github.owner_name: Guizhen Wang
