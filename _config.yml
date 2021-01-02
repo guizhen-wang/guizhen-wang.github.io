@@ -9,9 +9,6 @@ exclude:
 markdown: GFM
 permalink: /:categories/:year/:month/:title/
 
-# layout: page
-# title: "PAGE TITLE"
-# permalink: /url/
 
 title: Guizhen Wang
 email: wang1908@purdue.edu
