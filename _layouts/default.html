@@ -17,7 +17,7 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
-          <img id = "logoImg" src="{{site.logo | relative_url}}" alt="Logo" />
+          <img id = "logo" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -32,24 +32,40 @@
 
         {% if site.sociallinks %}
         <ul class="downloads">
-          <li><a href="{{ site.github.owner_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.owner_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.resume_url }}">Download<strong>Resume</strong></a></li>
+          <li><a href="{{ site.linkedin_url }}">View On <strong>LinkedIn</strong></a></li>
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
       </header>
+
       <section>
 
-      <!-- {{ content }} -->
-      <p>Coming soon</p>
+      {{ content }}
+      <nav class="main-nav">
+        <ul class="nav-homepage-ul">
+          {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+          {% for p in navigation_pages %}
+            {% if p.navigation_weight %}
+              <li class="nav-homepage nav-homepage-li">
+                <a class = "nav-homepage" href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
+                  {{ p.title }}
+                </a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
 
       </section>
+
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{site.title}}</a></p>
         {% endif %}
       </footer>
     </div>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
