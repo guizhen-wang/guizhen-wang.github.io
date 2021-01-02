@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
-gems:
+plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -14,8 +15,8 @@ permalink: /:categories/:year/:month/:title/
 
 title: Guizhen Wang
 email: wang1908@purdue.edu
-description: Passionate in data visualization, machine learning and computer science.
-logo: /assets/img/IMG_logo.png
+description: Passionate in data visualization, machine learning and general computer science techniques.
+logo: /assets/images/logo_small.png
 github.owner_name: Guizhen Wang
 github.is_user_page: 1
 github.owner_url: https://github.com/guizhen-wang

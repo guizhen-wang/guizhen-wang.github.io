@@ -273,6 +273,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed (~> 0.12)
+  jekyll-seo-tag (~> 2.6)
+  jekyll-theme-minimal
   nokogiri
   rack (~> 2.0.1)
   rspec
