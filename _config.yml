@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 
+markdown: GFM
 permalink: /:categories/:year/:month/:title/
 title: Guizhen Wang
 description: Passionate in data visualization, machine learning and computer science.
