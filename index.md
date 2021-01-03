@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Overview
+title: Intro
 navigation_weight: 1
 ---
 

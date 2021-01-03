@@ -40,7 +40,11 @@ Topic hyperGraph: hierarchical visualization of thematic structures in long docu
 <br />
 <br /><small>Junghoon Chae, Yuchen Cui, Yun Jang, <strong>Guizhen Wang</strong>, Abish Malik, David S Ebert.</small>   
 <br />Trajectory-based Visual Analytics for Anomalous Human Movement Analysis using Social Media. 
-<br />EuroVis Workshop on Visual Analytics, 2015. <small>[[URL]]({{"https://diglib.eg.org/handle/10.2312/eurova.20151102.043-047"}}) [PDF](/assets/publications/trava.pdf)</small> 
+<br />EuroVis Workshop on Visual Analytics, 2015. 
+<small><a href="https://diglib.eg.org/handle/10.2312/eurova.20151102.043-047">[URL]</a> <a href="/assets/publications/trava.pdf">[PDF]</a></small>
+
+<!-- <small>[[URL]]({{"https://diglib.eg.org/handle/10.2312/eurova.20151102.043-047"}})</small>   -->
+<!-- <small>[[PDF]](/assets/publications/trava.pdf)</small>  -->
 
 <br /><small>Youngsol Koh, Anup Mohan, <strong>Guizhen Wang</strong>, Hanye Xu, Abish Malik, Yung-Hsiang Lu, David S Ebert.</small>  
 Improve safety using public network cameras. 
