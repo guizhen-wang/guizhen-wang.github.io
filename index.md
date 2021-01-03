@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Overview
 navigation_weight: 1
 ---
 

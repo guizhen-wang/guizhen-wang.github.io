@@ -12,10 +12,22 @@ li.nav-homepage-li  {
     float: left;
     display: block;
     text-align: center;
-    padding: 14px 16px;
+    padding: 3px 6px;
     text-decoration: none;
 }
 
 a.active {
     font-weight: bold;
 } 
+
+img[alt=drawing] { 
+    width: 250px; 
+    float: left;
+    padding: 0px 3px;
+}
+
+li.custom_li{
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+}
