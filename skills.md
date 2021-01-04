@@ -6,15 +6,15 @@ navigation_weight: 4
 
 ## Programming
 
-* Nearly ten-years desktop application developments, using C++, Java, OpenGL, SQL
-* One-year web application development using python, FLASK, D3js
+* Nearly ten-years desktop application developments, using C++, Java, OpenGL, and SQL
+* One-year web application development using python, FLASK, and D3.js
 * Long-time data analysis using R and Matlab
 * Experienced in data processing in a cloud platform (e.g., Spark + HDFS)
 
 
 ## Database
 
-* Developed advanced sampling approaches that allows client-side applications sampling data on the fly and conducting progressive analysis. Developed approaches are suitable for client-server architecture and database storage schemes (e.g., buffer)
+* Developed advanced sampling approaches that allows client-side applications sampling data on the fly and conducting progressive analysis. Developed approaches are suitable for a client-server architecture and exisiting database storage schemes (e.g., buffer)
 
 ## Statistics and Machine Learning
 
