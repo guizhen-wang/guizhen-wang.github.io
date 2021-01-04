@@ -43,9 +43,6 @@ Topic hyperGraph: hierarchical visualization of thematic structures in long docu
 <br />EuroVis Workshop on Visual Analytics, 2015. 
 <small><a href="https://diglib.eg.org/handle/10.2312/eurova.20151102.043-047">[URL]</a> <a href="/assets/publications/trava.pdf">[PDF]</a></small>
 
-<!-- <small>[[URL]]({{"https://diglib.eg.org/handle/10.2312/eurova.20151102.043-047"}})</small>   -->
-<!-- <small>[[PDF]](/assets/publications/trava.pdf)</small>  -->
-
 <br /><small>Youngsol Koh, Anup Mohan, <strong>Guizhen Wang</strong>, Hanye Xu, Abish Malik, Yung-Hsiang Lu, David S Ebert.</small>  
 Improve safety using public network cameras. 
 <br />IEEE Symposium on Technologies for Homeland Security, 2016. <small>[[URL]](https://ieeexplore.ieee.org/document/7568911) [[PDF]](/assets/publications/improve-safety-using-pubic-network-cameras.pdf)</small> 
@@ -53,8 +50,6 @@ Improve safety using public network cameras.
 <br /><small>Chittayong Surakitbanharn, Calvin Yau, <strong>Guizhen Wang</strong>, Aniesh Chawla, Yinuo Pan, Zhaoya Sun, Sam Yellin, David Ebert, Yung-Hsiang Lu, George K Thiruvathukal.</small>  
 Cross-referencing social media and public surveillance camera data for disaster response. 
 <br />IEEE International Symposium on Technologies for Homeland Security, 2018. <small>[[URL]](https://ieeexplore.ieee.org/document/8574200) [[PDF]](/assets/publications/cross-reference-social-media-camera.pdf)</small> 
-
-
 
 <br /><small>Jieqiong Zhao, Morteza Karimzadeh, Hanye Xu, Abish Malik, Shehzad Afzal, <strong>Guizhen Wang</strong>, Niklas Elmqvist, David S Ebert.</small>   
 Route Packing: Geospatially-Accurate Visualization of Route Networks. 

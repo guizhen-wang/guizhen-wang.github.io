@@ -1,15 +1,21 @@
 ---
 layout: default
-title: Awards
-navigation_weight: 6
+title: Awards & Press
+navigation_weight: 4
 ---
 
-2017 Purdue Graduate Student Government (PGSG) Travel Grant Award
+# Awards
 
-2015 IEEE VAST Challenge Honorable Mention: Compelling Narrative Debrief
+* 2017 Purdue Graduate Student Government (PGSG) Travel Grant Award
 
-2011 IEEE PacificVis Best Poster Award
+* 2015 IEEE VAST Challenge Honorable Mention: Compelling Narrative Debrief
 
-2010 1st-class Award of Honor for Graduate of Zhejiang University (Top 3/28 students were awarded.)
+* 2011 IEEE PacificVis Best Poster Award
 
-Excellent student scholarship at Shandong University for 3 times 
+* 2010 1st-class Award of Honor for Graduate of Zhejiang University (Top 3/28 students were awarded.)
+
+* 2005-2009 Excellent student scholarship at Shandong University for 3 times 
+
+# Press
+
+* [How Purdue is engineering solutions to the heroin epidemic](https://www.jconline.com/story/news/2017/09/27/how-purdue-engineering-solutions-heroin-epidemic/699416001/)
