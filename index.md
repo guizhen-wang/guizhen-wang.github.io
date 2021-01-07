@@ -10,7 +10,7 @@ These experiences enabled me to obtain proficient programming, visualization, da
 In 2020, I completed my Ph.D. specializing in data visualization, under the supervision of [Prof. David Ebert](https://engineering.purdue.edu/~ebertd/) at Purdue University. I worked as a research assistant at [Purdue/DHS Visual Analytics Center of Excellence](https://www.purdue.edu/discoverypark/vaccine/).  
 Previously, I received a master’s degree in computer science from Zhejiang University, advised by [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in the State Key Laboratory of CAD&CG.
 
-Currently, I am completing a dual degree in MS State, and needs only four more classes to finish. 
+Currently, I am completing a dual degree in MS STAT, and needs only four more classes to finish. 
 
 My research broadly connects to human factors, computer technologies, and data analytics. 
 
