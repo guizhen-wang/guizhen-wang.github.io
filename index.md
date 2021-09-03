@@ -15,4 +15,4 @@ Currently, I am completing a dual degree in MS STAT, and needs only four more cl
 My research broadly connects to human factors, computer technologies, and data analytics. 
 
 # Update
-* Actively looking for internship opportunities.
+* Actively looking for full-time job opportunities.
